@@ -3,7 +3,7 @@
 Python script to set timezone in docker
 ```
    -t, --time
-          time that fits the timezone
+          hour appropriate for timezone. time has to be in 0..24
 
    -n, --docker-name
           docker container name or id
